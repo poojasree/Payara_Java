@@ -21,7 +21,7 @@ We have added full JCache support, enhanced JBatch functionality, replaced Shoal
 java -jar payara-micro.jar --deploy test.war
 ```
 
-In summary, Payara Server provides :
+In summary, Payara Server provides:
 
 * Fully supported server derived from GlassFish 4.x Open Source Edition
 * Drop-in replacement for GlassFish Open Source Edition
